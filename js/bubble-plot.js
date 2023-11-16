@@ -1,6 +1,6 @@
-async function drawVis() {
+async function drawVis(data) {
 
-  let data = await d3.tsv("./data.txt");
+  d3.select("#data-vis").html("");
 
   data = data.map((m, i) => {
     if (m.fold_enrichment.includes("> 100")) {
@@ -261,5 +261,3 @@ async function drawVis() {
     .attr("fill", "#333")
     .style('text-anchor', 'start');
 }
-
-drawVis();
