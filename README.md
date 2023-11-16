@@ -24,5 +24,7 @@ This file can be created using Excel and saved as a `Text (Tab delimited) (*.txt
 The output file should look like the [example_data](https://github.com/akulmehta/go-enrichment-visualizer/blob/main/example_data.txt) file provided in this repository.
 
 2] Open the GO Visualizer and click on the file input field to locate the file on your computer.
+
 3] Click on the "Load File" button to load the file and see the data visualization.
+
 4] Click on the "Save SVG" button to save the data visualization as an SVG vector graphic image which can be edited in most illustration applications (e.g. Inkscape).
