@@ -1,0 +1,11 @@
+index	go	fold_enrichment	log_fdr	gene_count
+1	septate junction (GO:0005918)	 > 100	2.9136	2
+2	integrin alphav-beta5 complex (GO:0034684)	 > 100	2.9208	2
+3	NMDA selective glutamate receptor complex (GO:0017146)	 > 100	3.9031	3
+4	dendritic branch (GO:0044307)	 > 100	2.2381	2
+5	perineuronal net (GO:0072534)	77.13	2.0132	2
+6	perisynaptic extracellular matrix (GO:0098966)	70.12	1.9508	2
+7	juxtaparanode region of axon (GO:0044224)	64.28	1.9031	2
+8	synaptic cleft (GO:0043083)	61.71	4.4685	4
+9	ionotropic glutamate receptor complex (GO:0008328)	61.36	8.4737	7
+10	node of Ranvier (GO:0033268)	60.89	3.1018	3
